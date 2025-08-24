@@ -9,7 +9,7 @@ func _ready():
 	button.pressed.connect(_on_button_pressed)
 	
 	# Load the audio file
-	var audio_stream = load("res://addons/vine_boom/vine_boom sfx.mp3")
+	var audio_stream = load("res://addons/vine_boom/assets/vine-boom sfx.mp3")
 	if audio_stream:
 		audio_player.stream = audio_stream
 	else:
