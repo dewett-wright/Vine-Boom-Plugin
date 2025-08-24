@@ -4,8 +4,8 @@ Add a big red button to your Godot editor that plays the vine boom sound effect.
 
 ## What does it do?
 
-- Adds big red button in editor dock
-- Satisfying vine boom sound effect
+- Adds big red button in bottom editor dock (next to output, debugger, shaders, etc.)
+- OG vine boom sound effect
 
 ## Installation
 
