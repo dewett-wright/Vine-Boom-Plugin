@@ -9,7 +9,7 @@ Add a big red button to your Godot editor that plays the vine boom sound effect.
 
 ## Installation
 
-1. Download the latest release from (https://github.com/cool-cat-dev/Vine-Boom-Plugin/releases)
+1. Download the latest release from (https://github.com/dewett-wright/Vine-Boom-Plugin/releases)
 2. Extract the `addons` folder to your project's root directory
 3. Go to `Project > Project Settings > Plugins`
 4. Enable "Vine Boom Button"
@@ -34,7 +34,7 @@ Vine boom sound effect is included under fair use for comedic purposes.
 ## 👤 Author
 
 Created by dewett wright
-- GitHub: [@cool-cat-dev](https://github.com/dewett-wright)
+- GitHub: [@dewett-wright](https://github.com/dewett-wright)
 - Itch.io: [dewett-wright.itch.io](https://dewett-wright-dev.itch.io/)
 
 ## Issues & Contributions
